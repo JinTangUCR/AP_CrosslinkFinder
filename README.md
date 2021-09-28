@@ -7,4 +7,5 @@ The code is modified from the FindXL from kalisman Group (Kalisman, N.; Adams, C
 
 And able to be modified to analyze other types of DNA-protein cross-links.
 
-The code will be available after our work published.
+Our results haven been published in Analytical Chemistry:
+Tang, J.; Zhao, W.; Hendricks, N. G.; Zhao, L. High-Resolution Mapping of Amino Acid Residues in DNA–Protein Cross-Links Enabled by Ribonucleotide-Containing DNA. Anal. Chem. 2021, acs.analchem.1c03481. https://doi.org/10.1021/acs.analchem.1c03481.
